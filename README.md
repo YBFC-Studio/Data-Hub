@@ -1,1 +1,1 @@
-Link:https://ybfc-studio.github.io/Data-Hub/
+Link:https://ybfc.us.ci/Data-Hub/
